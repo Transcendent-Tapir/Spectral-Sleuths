@@ -108,7 +108,7 @@ This asset is always the same, and should be significant to your character
 
 you also carry 3 mundane items rated at a d6. these items can be defined during play and can change every investigation
 
-__**NEW**__
+__**OLD**__
 
 What 3 things are you bringing with you
 
