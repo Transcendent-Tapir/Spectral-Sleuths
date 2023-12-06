@@ -33,11 +33,22 @@ The reason for investigation could be a number of things, such as
 
 ### Aspects
 
+__**NEW**__
+
 Important parts of being an investigator:
 
 - What drives you to investigate
 - What skills you have
 - What connections you have (maybe an asset?)
+
+Things that hold you back
+
+- A fear
+- An insecurity
+- An injury
+- A curse
+
+__**OLD**__
 
 Why did you start investigating
 
