@@ -4,7 +4,7 @@ title: Spectral Sleuths
 
 Spectral Sleuths: A Supernatural investigation game using Distortion Dice
 
-In Spectral Sleuths, the players take on the role of investigators. Mostly ordinary humans who, for some reason or another, are driven to look into the strange and unexplainable, and often find themselves in over their heads because of it. Investigators will follow up on rumors and unexplainable stories to look for their sources. Hopefully finding the cause, and proof of the supernatural, if it doesn't kill them first.
+In Spectral Sleuths, the players take on the role of investigators. Mostly ordinary humans who, for some reason or another, are driven to look into the strange and unexplainable, and often find themselves in over their heads because of it. Investigators will follow up on rumors and unexplainable stories to look for the truth. Hopefully finding it, and proof of the supernatural, if it doesn't kill them first.
 
 While investigators may have some abilities out of the norm, such as the ability to sense magic, commune with spirits, or ward a room, they are still mortal, and their powers would be very limited.
 
