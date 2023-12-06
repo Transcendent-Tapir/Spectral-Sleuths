@@ -37,7 +37,7 @@ The reason for investigation could be a number of things, such as
 
 __**NEW**__
 
-Important parts of being an investigator:
+Important parts of being an investigator (answer 3):
 
 - What drives you to investigate
 - What skills you have
@@ -45,12 +45,13 @@ Important parts of being an investigator:
 - What extraordinary abilities do you have
 - What is your reputation
 
-Things that hold you back
+Things that hold you back (answer 2):
 
 - A fear
 - An insecurity
 - An injury
 - A curse
+- A debt
 
 __**OLD**__
 
