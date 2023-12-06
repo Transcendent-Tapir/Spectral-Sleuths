@@ -42,6 +42,8 @@ Important parts of being an investigator:
 - What drives you to investigate
 - What skills you have
 - What connections you have (maybe an asset?)
+- What extraordinary abilities do you have
+- What is your reputation
 
 Things that hold you back
 
