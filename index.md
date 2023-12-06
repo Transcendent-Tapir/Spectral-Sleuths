@@ -104,7 +104,7 @@ What are you running from
 __**NEW**__
 
 Pick one signature asset that starts at a d8.
-This asset is always the same
+This asset is always the same, and should be significant to your character
 
 you also carry 3 mundane items rated at a d6. these items can be defined during play and can change every investigation
 
