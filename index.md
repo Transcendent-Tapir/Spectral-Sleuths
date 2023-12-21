@@ -40,18 +40,21 @@ __**NEW**__
 Important parts of being an investigator (answer 3):
 
 - What drives you to investigate
-- What skills you have
+- What job did you work that helps you investigate
+- What innate skills you have
 - What connections you have (maybe an asset?)
 - What extraordinary abilities do you have
 - What is your reputation
+- What else sets you apart from the other investigators 
 
 Things that hold you back (answer 2):
 
-- A fear
-- An insecurity
-- An injury
-- A curse
-- A debt
+- What are you afraid of
+- What are you insecure about 
+- What old injury slows you down
+- What supernatural force gets in your way
+- Who do you owe something to, and what do you owe them
+- What else that causes trouble in your investigations 
 
 __**OLD**__
 
