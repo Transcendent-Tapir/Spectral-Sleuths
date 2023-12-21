@@ -107,7 +107,13 @@ What are you running from
 __**NEW**__
 
 Pick one signature asset that starts at a d8.
-This asset is always the same, and should be significant to your character
+This asset is always the same, and should be significant to your character.
+
+A signature asset should be something like
+- my trusty shotgun
+- dusty old book of the arcane
+- My mother's cleansing crystals
+- customized DSLR camera with infrared detection 
 
 you also carry 3 mundane items rated at a d6. these items can be defined during play and can change every investigation
 
