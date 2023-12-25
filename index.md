@@ -85,6 +85,6 @@ The rising Tension die starts at a d4 or d6 and represents a potentially growing
 
 Sleuths take on investigations based on rumors they've heard or because someone has requested them. Their goal is generally to get to the bottom of what is going on, and potentially find a solution. 
 
-Investigations should start with something small that could be hard to explain. As the sleuths investigate, things will become increasingly complex and dangerous. Investigations will involve looking into the history of an area, questioning witnesses, and using equipment to detect and record unusual events. 
+Investigations should start with something small that could be hard to explain. Things like unexplainable lights or noises, strange animal behavior, feelings of unease, lost time, things suspiciously going missing. As the sleuths investigate, things will become increasingly complex and dangerous. Investigations will involve looking into the history of an area, questioning witnesses, and using equipment to detect, record, and put a stop to unusual events. 
 
 Surviving and going up against supernatural forces often involve finding your way out of traps, withstanding otherworldly forces, and even using brute force.
