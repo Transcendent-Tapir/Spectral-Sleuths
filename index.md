@@ -21,6 +21,7 @@ The reason for investigation could be a number of things, such as
 - A mystery club in a high school
 - trying to prove yourself to a forum of paranormal enthusiasts
 
+As a distortion dice game, this is based on the same system used in [Distorted Domains](https://pennylescroche.github.io/Distorted-Domains). Since Distorted Domains is the more developed game, please look there for more information about how the system works and how to run it.
 
 4 stats
 
