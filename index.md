@@ -8,7 +8,7 @@ In Spectral Sleuths, the players take on the role of investigators. Mostly ordin
 
 While investigators may have some abilities out of the norm, such as the ability to sense magic, commune with spirits, or ward a room, they are still mortal, and their powers would be very limited.
 
-Inspirations include X-files, Old Gods of Appalachia, SCP, Liminal Horror, Monster of the Week, The Magnus Archives, Phasmophobia, and The Dead Files
+Inspirations include X-files, Old Gods of Appalachia, SCP, Liminal Horror, Monster of the Week, The Magnus Archives, Supernatural, Phasmophobia, and The Dead Files
 
 The reason for investigation could be a number of things, such as
 
@@ -86,6 +86,6 @@ The rising Tension die starts at a d4 or d6 and represents a potentially growing
 
 Sleuths take on investigations based on rumors they've heard or because someone has requested them. Their goal is generally to get to the bottom of what is going on, and potentially find a solution. 
 
-Investigations should start with something small that could be hard to explain. Things like unexplainable lights or noises, strange animal behavior, feelings of unease, lost time, things suspiciously going missing. As the sleuths investigate, things will become increasingly complex and dangerous. Investigations will involve looking into the history of an area, questioning witnesses, and using equipment to detect, record, and put a stop to unusual events. 
+Investigations should start with something small that could be hard to explain. Things like unexplainable lights or noises, strange animal behavior, feelings of unease, lost time, things suspiciously going missing. As the sleuths investigate, things will become increasingly complex and dangerous. Investigations will involve looking into the history of an area, questioning witnesses, and using equipment to detect, record, and put a stop to unusual events. Mysteries may be about strange creatures, ghosts, cursed objects, or science experiments gone wrong. Usually the cause is people messing with forces that they do not understand, though sometimes it is simply an unknown creature trying to survive, or a spirit angry about an old injustice.
 
 Surviving and going up against supernatural forces often involve finding your way out of traps, withstanding otherworldly forces, and even using brute force.
