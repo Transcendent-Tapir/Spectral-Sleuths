@@ -47,10 +47,34 @@ Important parts of being an investigator (answer 3):
 
 - What drives you to investigate
 - What job did you work that helps you investigate
+  - Private Investigator
+  - Bounty hunter
+  - Historian
+  - Forest Ranger
+  - Something else 
 - What innate skills you have
-- What connections you have (maybe an asset?)
+  - Hyper Observation
+  - Excellent Reflexes
+  - Incredible Athleticism
+  - Can always tell when someone is lying
+  - Something else 
+- What connections you have
+  - An online supernatural enthusiast forum
+  - Dark web relic dealers
+  - Academic mythology experts
+  - A secret organization dedicated to fighting the supernatural
+  - Something else
 - What extraordinary abilities do you have
+  - Sensing the emotions and history of objects
+  - Feeling the presence of otherworldly beings
+  - The uncanny ability to know when something dangerous is about to happen
+  - Being able to physically interact with spirits 
+  - Something else 
 - What is your reputation
+  - A dangerous outlaw
+  - A respected professor
+  - A famous content creator
+  - something else 
 - What else sets you apart from the other investigators 
 
 Things that hold you back (answer 2):
@@ -76,6 +100,15 @@ A signature asset should be something like
 
 you also carry 3 mundane items rated at a d6. these items can be defined during play and can change every investigation
 
+Some mundane items you might bring
+
+- salt
+- rope
+- holy water
+- wooden stakes
+- silver knife
+- dried herbs
+- lighter fluid
 
 ### Harm
 
@@ -85,7 +118,7 @@ If Harm is raised above a d12, that character is incapacitated and takes on or r
 
 ### Tension Die
 
-this is an optional die that represents the constant tension and risk involved in an investigation. There are two version of the Tension Die, a rising Tension Die, and a Static Tension Die. The static Tension Die is constant and represents the constant supernatural threat of an investigation. Like all other dice, it can be anywhere from a d4 to a d12. Unlike other dice, it cannot be stepped down.
+this is a die that represents the constant tension and risk involved in an investigation. There are two version of the Tension Die, a rising Tension Die, and a Static Tension Die. The static Tension Die is constant and represents the constant supernatural threat of an investigation. Like all other dice, it can be anywhere from a d4 to a d12. Unlike other dice, it cannot be stepped down.
 
 The rising Tension die starts at a d4 or d6 and represents a potentially growing threat. As the players investigate, background forces are also going to work towards their goals, and when those goals are achieved, the tension die grows. If those goals are thwarted, the tension die shrinks. If it raises above a d12, the ultimate goal of the antagonists is reached, the players, and possible the entire world, lose. If it's lowered below a d4, the antagonists are defeated, and their threat is gone.
 
