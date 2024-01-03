@@ -46,6 +46,14 @@ Weird can be used to resist forces of the supernatural, perform rituals, and to 
 Important parts of being an investigator (answer 3):
 
 - What drives you to investigate
+  - Your sibling disappeared under mysterious circumstances
+  - You've seen the supernatural and want to prove it to the world 
+  - Someone you love was attacked and you can't let anyone else get hurt
+  - You believe that the supernatural is the key to understanding the universe
+  - Ghosts and monsters are disgusting creatures that must be destroyed
+  - Otherworldly creatures are simply misunderstood and you wish to help the world understand them.
+  - You wish to yield the power of the occult 
+  - Something else 
 - What job did you work that helps you investigate
   - Private Investigator
   - Bounty hunter
