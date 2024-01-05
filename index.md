@@ -77,6 +77,7 @@ Important parts of being an investigator (answer 3):
   - Feeling the presence of otherworldly beings
   - The uncanny ability to know when something dangerous is about to happen
   - Being able to physically interact with spirits 
+  - Studied under a skilled exorcist
   - Something else 
 - What is your reputation
   - A dangerous outlaw
@@ -117,6 +118,7 @@ Some mundane items you might bring
 - silver knife
 - dried herbs
 - lighter fluid
+- Forged documents
 
 ### Harm
 
