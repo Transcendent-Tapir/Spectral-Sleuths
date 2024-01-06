@@ -59,6 +59,7 @@ Important parts of being an investigator (answer 3):
   - Bounty hunter
   - Historian
   - Forest Ranger
+  - Cyber Security expert
   - Something else 
 - What innate skills you have
   - Hyper Observation
