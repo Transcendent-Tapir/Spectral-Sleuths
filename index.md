@@ -77,7 +77,6 @@ Important parts of being an investigator (answer 3):
   - Feeling the presence of otherworldly beings
   - The uncanny ability to know when something dangerous is about to happen
   - Being able to physically interact with spirits 
-  - Studied under a skilled exorcist
   - Something else 
 - What is your reputation
   - A dangerous outlaw
@@ -85,6 +84,11 @@ Important parts of being an investigator (answer 3):
   - A famous content creator
   - something else 
 - What else sets you apart from the other investigators 
+  - A keen sense of smell
+  - Like catnip for Ghosts
+  - A medical condition where you retain silver in your blood
+  - Peculiarly forgettable
+  - Something else 
 
 Things that hold you back (answer 2):
 
@@ -118,7 +122,6 @@ Some mundane items you might bring
 - silver knife
 - dried herbs
 - lighter fluid
-- Forged documents
 
 ### Harm
 
