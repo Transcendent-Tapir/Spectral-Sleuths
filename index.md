@@ -123,6 +123,9 @@ Some mundane items you might bring
 - silver knife
 - dried herbs
 - lighter fluid
+- emf reader
+- night vision camera
+- chalk
 
 ### Harm
 
