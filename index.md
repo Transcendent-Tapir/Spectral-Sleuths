@@ -8,7 +8,7 @@ In Spectral Sleuths, the players take on the role of investigators. Mostly ordin
 
 While investigators may have some abilities out of the norm, such as the ability to sense magic, commune with spirits, or ward a room, they are still mortal, and their powers would be very limited.
 
-Inspirations include X-files, Old Gods of Appalachia, SCP, Liminal Horror, Monster of the Week, The Magnus Archives, Phasmophobia, and The Dead Files
+Inspirations include X-files, Old Gods of Appalachia, SCP, Liminal Horror, Monster of the Week, The Magnus Archives, Phasmophobia, Living for the Dead, and The Dead Files
 
 The reason for investigation could be a number of things, such as
 
