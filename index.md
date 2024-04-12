@@ -52,7 +52,7 @@ Important parts of being an investigator (answer 3):
   - You believe that the supernatural is the key to understanding the universe
   - Ghosts and monsters are disgusting creatures that must be destroyed
   - Otherworldly creatures are simply misunderstood and you wish to help the world understand them.
-  - You wish to yield the power of the occult 
+  - You wish to wield the power of the occult 
   - Something else 
 - What job did you work that helps you investigate
   - Private Investigator
@@ -60,11 +60,13 @@ Important parts of being an investigator (answer 3):
   - Historian
   - Forest Ranger
   - Cyber Security expert
+  - Circus performer
   - Something else 
 - What innate skills you have
   - Hyper Observation
   - Excellent Reflexes
   - Incredible Athleticism
+  - Extraordinary strength
   - Can always tell when someone is lying
   - Something else 
 - What connections you have
@@ -72,6 +74,7 @@ Important parts of being an investigator (answer 3):
   - Dark web relic dealers
   - Academic mythology experts
   - A secret organization dedicated to fighting the supernatural
+  - A group of sentient supernatural creatures that wish to live in harmony with humans
   - Something else
 - What extraordinary abilities do you have
   - Sensing the emotions and history of objects
@@ -83,12 +86,15 @@ Important parts of being an investigator (answer 3):
   - A dangerous outlaw
   - A respected professor
   - A famous content creator
+  - An ambitious author
+  - An outcast researcher
   - something else 
 - What else sets you apart from the other investigators 
   - A keen sense of smell
   - Like catnip for Ghosts
   - A medical condition where you retain silver in your blood
   - Peculiarly forgettable
+  - Look remarably like someone famous
   - Something else 
 
 Things that hold you back (answer 2):
