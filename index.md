@@ -147,7 +147,7 @@ A signature asset should be something like
 - dusty old book of the arcane
 - My mother's cleansing crystals
 - customized DSLR camera with infrared detection
-- My jars of herbs and spices
+- a collection of jars full herbs and spices
 - An ancient crucifix
 
 you also carry 3 mundane items rated at a d6. these items can be defined during play and can change every investigation
