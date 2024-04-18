@@ -167,7 +167,9 @@ Some mundane items you might bring
 
 ### Harm
 
-Harm can only be reduced through a specific action, or through rest. A short rest is a few minutes and can reduce a harm track by one. A long rest is a full night and can reduce each harm track by one. You can take an action appropriate for each harm track to try and reduce it, but failure means increasing it.
+Harm can only be reduced through a specific action, or through rest. Each day, you can rest for a few minutes and reduce one harm track by one. Each rest after that must be an hour or more. Resting overnight can reduce each harm track by one. The time between investigations generally counts as resting overnight unless otherwise specified. For long time lapses between investigations, all harm can be reduced back to a d4.
+
+Doing first aid, helping calm someone down, using cleansing or warding magic can all count as actions that reduce harm as long as they make sense for the harm being reduced.
 
 If Harm is raised above a d12, that character is incapacitated and takes on or raises a negative aspect. An incapacitated character is retired if they are not removed from that situation. An incapacitated character cannot act on their own. If a negative aspect would be raised above a d12 that character is automatically retired and cannot be saved.
 
@@ -191,7 +193,7 @@ At the beginning of each session, each character starts with 1 Inspiration. Any 
 
 Before a roll is made Inspiration can be spent to increase any single die in your pool, or to include a die that is not applicable to your roll.
 
-After a roll is made, Inspiration can be spent to change what type of harm you take. If rolling to create a temporary asset, inspiration can be spent to increase the asset from a d6 to a d8.
+After a roll is made, Inspiration can be spent to change what type of harm you take. Inspiration can also keep a character from being retired if they are incapacitated but are unable to be helped by the other investigators in time. If rolling to create a temporary asset, inspiration can be spent to increase the asset from a d6 to a d8.
 
 Unspent Inspiration turns into Advancement at the end of a session. Advancement can be spent to improve a stat, improve an aspect, lower a negative aspect, or gain a new aspect.
 
