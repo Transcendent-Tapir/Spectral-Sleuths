@@ -41,14 +41,32 @@ Wisdom could be used to pick up on patterns, use technical equipment, or do rese
 
 Weird can be used to resist forces of the supernatural, perform rituals, and to keep calm when the unexplainable happens. it can also be used to commune with the spirit world, or detect energies in a room if your character has those abilities 
 
-Choose or Roll on the table
+Choose or Roll on one of the tables below, there are 3 different stat distributions depending on how specialized you want your character to be. For a fully random character roll a d6 to choose which table
 
-d12 | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12
+ 1 or 4 | 2 or 5 | 3 or 6
+ :----: | :----: | :----:
+ Well Rounded | Focused | Specialized
+
+Well Rounded | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-Weight| d6  | d6  | d8  | d6  | d6  | d8  | d8  | d6  | d6  | d10 | d10 | d10
-Wiles | d6  | d8  | d6  | d6  | d8  | d6  | d10 | d10 | d10 | d8  | d6  | d6
-Wisdom | d8  | d6  | d6  | d10 | d10 | d10 | d6  | d8  | d6  | d6  | d8  | d6
-Weird | d10 | d10 | d10 | d8  | d6  | d6  | d6  | d6  | d8  | d6  | d6  | d8
+Weight| d4  | d6  | d6  | d6  | d6  | d4  | d4  | d6  | d6  | d8  | d8  | d8
+Wiles | d6  | d4  | d6  | d6  | d4  | d6  | d8  | d8  | d8  | d4  | d6  | d6
+Wisdom | d6 | d6  | d4  | d8  | d8  | d8  | d6  | d4  | d6  | d6  | d4  | d6
+Weird | d8  | d8  | d8  | d8  | d4  | d6  | d6  | d6  | d4  | d6  | d6  | d4
+
+Focused   | 1  | 2   | 3   | 4   | 5   | 6  
+:-:       | :-: | :-: | :-: | :-: | :-: | :-: 
+Weight    | d4  | d4  | d8  | d4  | d8  | d8  
+Wiles     | d4  | d8  | d4  | d8  | d4  | d8  
+Wisdom    | d8  | d4  | d4  | d8  | d8  | d4 
+Wierd     | d8  | d8  | d8  | d4  | d4  | d4  
+
+Specialized | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12
+:-:         | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
+Weight      | d4  | d4  | d6  | d4  | d4  | d6  | d4  | d4  | d6  | d10 | d10 | d10
+Wiles       | d4  | d6  | d4  | d4  | d6  | d4  | d10 | d10 | d10 | d6  | d4  | d4
+Wisdom      | d6  | d4  | d4  | d10 | d10 | d10 | d4  | d6  | d4  | d4  | d6  | d4
+Wierd       | d10 | d10 | d10 | d6  | d4  | d4  | d6  | d4  | d4  | d4  | d4  | d6
 
 ### Aspects
 
