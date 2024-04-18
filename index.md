@@ -41,6 +41,15 @@ Wisdom could be used to pick up on patterns, use technical equipment, or do rese
 
 Weird can be used to resist forces of the supernatural, perform rituals, and to keep calm when the unexplainable happens. it can also be used to commune with the spirit world, or detect energies in a room if your character has those abilities 
 
+Choose or Roll on the table
+
+d12 | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12
+:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
+Weight| d6  | d6  | d8  | d6  | d6  | d8  | d8  | d6  | d6  | d10 | d10 | d10
+Wiles | d6  | d8  | d6  | d6  | d8  | d6  | d10 | d10 | d10 | d8  | d6  | d6
+Wisdom | d8  | d6  | d6  | d10 | d10 | d10 | d6  | d8  | d6  | d6  | d8  | d6
+Weird | d10 | d10 | d10 | d8  | d6  | d6  | d6  | d6  | d8  | d6  | d6  | d8
+
 ### Aspects
 
 Important parts of being an investigator (answer 3):
@@ -62,7 +71,7 @@ Important parts of being an investigator (answer 3):
   - Cyber Security expert
   - Circus performer
   - Something else 
-- What innate skills you have
+- What innate skills do you have
   - Hyper Observation
   - Excellent Reflexes
   - Incredible Athleticism
@@ -97,6 +106,8 @@ Important parts of being an investigator (answer 3):
   - Look remarably like someone famous
   - Something else 
 
+Set all of your aspects to d6. Or set one to d4, one to d6, and one to d8
+
 Things that hold you back (answer 2):
 
 - What are you afraid of
@@ -106,6 +117,7 @@ Things that hold you back (answer 2):
 - Who do you owe something to, and what do you owe them
 - What else that causes trouble in your investigations 
 
+Set both of your negative aspects to d6
 
 ### Assets
 
