@@ -8,7 +8,7 @@ In Spectral Sleuths, the players take on the role of investigators. Mostly ordin
 
 While investigators may have some abilities out of the norm, such as the ability to sense magic, commune with spirits, or ward a room, they are still mortal, and their powers would be very limited.
 
-Inspirations include X-files, Old Gods of Appalachia, SCP, Liminal Horror, Monster of the Week, The Magnus Archives, Phasmophobia, Living for the Dead, and The Dead Files
+Inspirations include Supernatural, X-files, Old Gods of Appalachia, SCP, Liminal Horror, Monster of the Week, The Magnus Archives, Phasmophobia, Living for the Dead, and The Dead Files
 
 The reason for investigation could be a number of things, such as
 
@@ -41,14 +41,32 @@ Wisdom could be used to pick up on patterns, use technical equipment, or do rese
 
 Weird can be used to resist forces of the supernatural, perform rituals, and to keep calm when the unexplainable happens. it can also be used to commune with the spirit world, or detect energies in a room if your character has those abilities 
 
-Choose or Roll on the table
+Choose or Roll on one of the tables below, there are 3 different stat distributions depending on how specialized you want your character to be. Roll once and take the die ratings from that column. For a fully random character roll a d6 to choose which table
 
-d12 | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12
+ 1 or 4 | 2 or 5 | 3 or 6
+ :----: | :----: | :----:
+ Well Rounded | Focused | Specialized
+
+Well Rounded | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-Weight| d6  | d6  | d8  | d6  | d6  | d8  | d8  | d6  | d6  | d10 | d10 | d10
-Wiles | d6  | d8  | d6  | d6  | d8  | d6  | d10 | d10 | d10 | d8  | d6  | d6
-Wisdom | d8  | d6  | d6  | d10 | d10 | d10 | d6  | d8  | d6  | d6  | d8  | d6
-Weird | d10 | d10 | d10 | d8  | d6  | d6  | d6  | d6  | d8  | d6  | d6  | d8
+Weight| d4  | d6  | d6  | d6  | d6  | d4  | d4  | d6  | d6  | d8  | d8  | d8
+Wiles | d6  | d4  | d6  | d6  | d4  | d6  | d8  | d8  | d8  | d4  | d6  | d6
+Wisdom | d6 | d6  | d4  | d8  | d8  | d8  | d6  | d4  | d6  | d6  | d4  | d6
+Weird | d8  | d8  | d8  | d8  | d4  | d6  | d6  | d6  | d4  | d6  | d6  | d4
+
+Focused   | 1  | 2   | 3   | 4   | 5   | 6  
+:-:       | :-: | :-: | :-: | :-: | :-: | :-: 
+Weight    | d4  | d4  | d8  | d4  | d8  | d8  
+Wiles     | d4  | d8  | d4  | d8  | d4  | d8  
+Wisdom    | d8  | d4  | d4  | d8  | d8  | d4 
+Wierd     | d8  | d8  | d8  | d4  | d4  | d4  
+
+Specialized | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12
+:-:         | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
+Weight      | d4  | d4  | d6  | d4  | d4  | d6  | d4  | d4  | d6  | d10 | d10 | d10
+Wiles       | d4  | d6  | d4  | d4  | d6  | d4  | d10 | d10 | d10 | d6  | d4  | d4
+Wisdom      | d6  | d4  | d4  | d10 | d10 | d10 | d4  | d6  | d4  | d4  | d6  | d4
+Wierd       | d10 | d10 | d10 | d6  | d4  | d4  | d6  | d4  | d4  | d4  | d4  | d6
 
 ### Aspects
 
@@ -128,7 +146,9 @@ A signature asset should be something like
 - my trusty shotgun
 - dusty old book of the arcane
 - My mother's cleansing crystals
-- customized DSLR camera with infrared detection 
+- customized DSLR camera with infrared detection
+- a collection of jars full herbs and spices
+- An ancient crucifix
 
 you also carry 3 mundane items rated at a d6. these items can be defined during play and can change every investigation
 
@@ -147,7 +167,9 @@ Some mundane items you might bring
 
 ### Harm
 
-Harm can only be reduced through a specific action, or through rest. A short rest is a few minutes and can reduce a harm track by one. A long rest is a full night and can reduce each harm track by one. You can take an action appropriate for each harm track to try and reduce it, but failure means increasing it.
+Harm can only be reduced through a specific action, or through rest. Each day, you can rest for a few minutes and reduce one harm track by one. Each rest after that must be an hour or more. Resting overnight can reduce each harm track by one. The time between investigations generally counts as resting overnight unless otherwise specified. For long time lapses between investigations, all harm can be reduced back to a d4.
+
+Doing first aid, helping calm someone down, using cleansing or warding magic can all count as actions that reduce harm as long as they make sense for the harm being reduced.
 
 If Harm is raised above a d12, that character is incapacitated and takes on or raises a negative aspect. An incapacitated character is retired if they are not removed from that situation. An incapacitated character cannot act on their own. If a negative aspect would be raised above a d12 that character is automatically retired and cannot be saved.
 
@@ -164,6 +186,33 @@ Sleuths take on investigations based on rumors they've heard or because someone 
 Investigations should start with something small that could be hard to explain. Things like unexplainable lights or noises, strange animal behavior, feelings of unease, lost time, things suspiciously going missing. As the sleuths investigate, things will become increasingly complex and dangerous. Investigations will involve looking into the history of an area, questioning witnesses, and using equipment to detect, record, and put a stop to unusual events. 
 
 Surviving and going up against supernatural forces often involve finding your way out of traps, withstanding otherworldly forces, and even using brute force.
+
+### Inspiration and Advancement
+
+At the beginning of each session, each character starts with 1 Inspiration. Any roll with a negative or mixed consequence gives you an inspiration. Using a negative aspect in a roll also gives you an inspiration. Inspiration is gained once the roll is resolved, so that inspiration cannot be spent in the roll where it is granted. 
+
+Before a roll is made Inspiration can be spent to increase any single die in your pool, or to include a die that is not applicable to your roll.
+
+After a roll is made, Inspiration can be spent to change what type of harm you take. Inspiration can also keep a character from being retired if they are incapacitated but are unable to be helped by the other investigators in time. If rolling to create a temporary asset, inspiration can be spent to increase the asset from a d6 to a d8.
+
+Unspent Inspiration turns into Advancement at the end of a session. Advancement can be spent to improve a stat, improve an aspect, lower a negative aspect, or gain a new aspect.
+
+#### Stat increase cost
+
+15       |  20      | 25        | 30
+:------- | :------- | :-------- | :---------
+d4 -> d6 | d6 -> d8 | d8 -> d10 | d10 -> d12
+
+#### Aspect increase cost
+
+10           | 15        | 20        | 25
+:----------- | :-------- | :-------- | :-----
+new D6 aspect| d6 -> d8  | d8 -> d10 | d10 -> d12
+
+#### Negative Aspect decrease cost
+
+Decreasing a negative aspect always costs 10 advancement. A negative aspect has a minimum of d4. A negative aspect can never be removed.
+
 
 #### Sections to Add
 
