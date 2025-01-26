@@ -1,7 +1,12 @@
 ---
 title: Spectral Sleuths
+nav_order: 1
 ---
-
+<script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    jtd.setTheme('dark')
+}
+</script>
 Spectral Sleuths: A Supernatural investigation game using the Distortion Dice system
 
 In Spectral Sleuths, the players take on the role of investigators. Mostly ordinary humans who, for some reason or another, are driven to look into the strange and unexplainable, and often find themselves in over their heads because of it. Investigators will follow up on rumors and unexplainable stories to look for the truth. Hopefully finding it, and proof of the supernatural, if it doesn't kill them first.

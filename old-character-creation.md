@@ -1,4 +1,8 @@
-
+<script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    jtd.setTheme('dark')
+}
+</script>
 __**OLD**__
 
 Why did you start investigating
